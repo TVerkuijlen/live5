@@ -46,4 +46,3 @@ resources:
    properties:
       hdi-container-name: ${service-name}
    type: com.sap.xs.hdi-container
-
